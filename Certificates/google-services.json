@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "812253861371",
+    "firebase_url": "https://fir-fam-cam-talent.firebaseio.com",
+    "project_id": "firebase-fam-cam-talent",
+    "storage_bucket": "firebase-fam-cam-talent.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812253861371:android:fc1d25be6d9d87c0",
+        "android_client_info": {
+          "package_name": "com.famcamtalent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812253861371-ef7nrkvb26v0eebsli6lpd019mkkt7q8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.famcamtalent",
+            "certificate_hash": "1d7b8fc5a2297bede6f4bfd5bce65be2d01e9194"
+          }
+        },
+        {
+          "client_id": "812253861371-9r002thbutagdrfo4t8ageu3ram385el.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "812253861371-t4d9ens1tr42d5v4s1vkn33ehpi8ailr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpYe2OTPPoPAHBX16BEvrJcdRxoeRNbk0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

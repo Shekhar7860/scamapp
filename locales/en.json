@@ -1,0 +1,222 @@
+{
+  "globalValues" : {
+    "NothingText" : "Nothing to show, pull to refresh!",
+    "AlertOKBtn" : "Okay",
+    "Currency" : "SAR",
+    "ContactThanks" : "Thanks for contacting us, we'll get back to you soon!",
+    "FeaturedLabel" : "Featured",
+    "NetAlert" : "You are not connected to Internet",
+    "Tab1" : "Home",
+    "Tab2" : "Orders",
+    "Tab3" : "Profile",
+    "RequstsLabel" : "Requests",
+    "ReceivedLabel" : "Received",
+    "VideoSave" : "Don't have permissions to save video.",
+    "loggedout" : "You have been logged out!",
+    "RetryAlert" : "Problem occured, you can retry!",
+    "PhoneNumberValidation" : "Please enter valid phone number length(6-15 characters)",
+    "wrongMessage" : "Something went wrong"
+  },
+  "famcamHome": {
+    "NoDataText" : "No Data Found",
+    "SearchLabel" : "Search",
+    "ReactionLabel" : "Reaction Videos",
+    "CameoLabel" : "Featured Influancers"
+  },
+  "home" : {
+    "login" : "Login",
+    "fb_button" : "CONTINUE USING FACEBOOK",
+    "email" : "CONTINUE USING EMAIL",
+    "message" : "By signing up you agree to our terms of use",
+  },
+  "register" : {
+    "register" : "Register",
+    "heading" : "Enter your email and phone number to register on to FamCam",
+    "emailInput" : "Enter Email",
+    "phoneInput" : "Phone Number",
+    "placeholderEmail" : "Enter Email",
+    "placeholderNumber" : "Enter Phone Number",
+    "placeholderPassword" : "Set Password"
+  },
+  "otp" : {
+    "otp" : "OTP Verification",
+    "heading" : "Please Type the verification code sent to",
+    "OtpSuccess" : "OTP sent successfully",
+    "resendOtp" : "Resend OTP",
+    "4DigitAlertText" : "OTP is of 4 digits!",
+    "IncorrectServerAlertText" : "The code you entered is incorrect. Please check the code and try again.",
+    "IncorrectAlertText" : "OTP is incorrect"
+  },
+  "login" : {
+    "login" : "Login",
+    "heading" : "Enter your email to login to FamCam",
+    "forgotPassword" : "FORGOT PASSWORD?",
+    "placeholder" : "Enter Email",
+    "placeholder2" : "Enter Password",
+    "NotificationText" : "For timely notifications, make sure app notifications are always enabled"
+  },
+  "forgotPassword" : {
+    "text" : "Forgot Password?",
+    "heading" : "Just Enter your phone number, we will send a password reset soon.",
+    "placeholder" : "Phone Number",
+    "SuccessAlertText" : "Link has been sent to your account"
+  },
+  "shoutout" : {
+    "text" : "Book a video shoutout from",
+    "input1" : "Who is this video for?",
+    "input2" : "Your email",
+    "input3" : "Your message..\n\nI would like you to wish\nmy sister sara a happy birthday!!\nshe loves you so much..!",
+    "input4" : "Enter Promo (optional)",
+    "PayBTN" : "Pay",
+    "ApplyLabel" : "Apply",
+    "RemoveLabel" : "Remove",
+    "UnsuccessfullAlert" : "Payment is Unsuccessfull.",
+    "SuccessfullAlert" : "Payment made successfully.",
+    "PromoEnter" : "Enter Promo Code",
+    "PromoSuccess" : "PromoCode apllied successfully!",
+    "CheckBox1" : "Showcase this video on the talant’s page ?",
+    "CheckBox2" : "Get your request within 24 hours (VIP delivery).",
+    "CheckBox2Bold" : "Extra charges apply.",
+    "deliveryText" : "Estimated time of delivery 3-7 days and you will receive a notification & email when the video is delivered.",
+    "deliveryText1" : "Estimated time of delivery 24 hours and you will receive a notification & email when the video is delivered."
+  },
+  "Profile1" : {
+    "profileText" : "Profile Setup",
+    "picLabel" : "Please upload a professional and high quality image.",
+    "nameLabel" : "Full Name",
+    "bioLabel" : "Bio"
+  },
+  "talentInfo" : {
+    "latest" : "Latest Orders",
+    "related" : "Related Talent",
+    "book" : "Book Now",
+    "ForLabel" : "For",
+    "RelatedText" : "Related Talent",
+    "BookLabel" : "Book For SAR",
+    "BookNowLabel" : "Book Now"
+  },
+  "settings" : {
+    "edit" : "Edit Profile",
+    "text" : "Settings",
+    "paymentInfo" : "Payment Information",
+    "contact" : "Contact Us",
+    "suggestion" : "Suggestion",
+    "tc" : "Terms And Conditions",
+    "lang" : "Change Language",
+    "changePass" : "Change Password",
+    "logout" : "Logout",
+    "LogoutAlertText" : "Are you sure you want to log out?",
+    "YesLabel": "Yes",
+    "NoLabel": "No"
+  },
+  "orders" : {
+    "request" : "Requests",
+    "received" : "Received"
+  },
+  "status" : {
+    "pending" : "Pending",
+    "rejected" : "Rejected",
+    "waiting" : "Waiting For Reply",
+    "for" : "For",
+    "message" : "MESSAGE",
+    "order" : "ORDER NUMBER",
+    "ToastMsg" : "Your video is downloading!",
+    "DownloadAlert" : "The video has been saved in Gallery",
+    "DownloadAlertIOS" : "The video has been saved in Photos"
+  },
+  "editProfile" : {
+    "save" : "Save",
+    "name" : "Name",
+    "phone" : "Phone Number",
+    "email" : "Email Address",
+    "tap" : "Tap to Change Picture",
+    "info" : "Personal Info",
+    "alertText" : "Don't have permissions to select image.",
+    "updatedAlerttext" : "Your Details has been updated"
+  },
+  "Language" : {
+    "LanguageText" : "Select Language",
+    "ArabicText" : "Arabic",
+    "EnglishText" : "English",
+    "SaveBTN" : "Save"
+  },
+  "ContactUs" : {
+    "ContactUsText" : "Contact Us",
+    "MainText" : "If you have any issue with your order or any feedback, dont hesitate to contact us.!(we will reply within 24hr)",
+    "InputText" : "Enter your message...",
+    "SendBTN" : "Send"
+  },
+  "PrivacyPolicy" : {
+    "PrivacyPolicyText" : "Privacy Policy"
+  },
+  "Suggestion" : {
+    "SuggestionText" : "Suggestion",
+    "MainText" : "Do you know someone talented to be featured on our application? Would you like to see someone to be featured on our application ?",
+    "NameLabel" : "Name",
+    "UrlLabel" : "Enter URL",
+    "SendBTN" : "Send",
+    "SuccessAlertText" : "Thanks for your suggestion!"
+  },
+  "AfterPayment" : {
+    "MainText" : "Your order has been completed",
+    "MainText1" : "and delivered to",
+    "ForLabel" : "FOR",
+    "time" : "2 Sec Ago",
+    "msgLabel" : "Message",
+    "paidLabel" : "Paid",
+    "orderLabel" : "Order Number",
+    "finalText1" : "The video will be delivered in 3 to 7 days and you will receive a notification & email when the video is delivered.",
+    "finalText2" : "The video will be delivered in 24 hours and you will receive a notification & email when the video is delivered.",
+    "refundText" : "You will get complete refund if the video did not get delivered in particular time.",
+    "okBTN" : "OK"
+  },
+  "PaymentInfo" : {
+    "PaymentText" : "Payment",
+    "MessageLabel" : "Message",
+    "orderLabel" : "Order Number"
+  },
+  "Requests" : {
+    "WaitingLabel" : "Waiting For Reply",
+    "RejectedLabel" : "Declined",
+    "ForLabel" : "For",
+    "MessageLabel" : "MESSAGE",
+    "OrderLabel" : "ORDER NUMBER",
+    "refundText" : "You will get a complete refund for this order",
+    "DayAgo" : "day ago",
+    "DaysAgo" : "days ago",
+    "HourAgo" : "hour ago",
+    "HoursAgo" : "hours ago",
+    "MinuteAgo" : "minute ago",
+    "MinutesAgo" : "minutes ago",
+    "SecondAgo" : "second ago",
+    "SecondsAgo" : "seconds ago",
+    "HourLeft" : "hour left",
+    "HoursLeft" : "hours left",
+    "MinuteLeft" : "minutes left",
+    "MinutesLeft" : "minutes left",
+    "SecondLeft" : "second left",
+    "SecondsLeft" : "seconds left"
+  },
+  "payment" : {
+    "PaymentText" : "Payment Options",
+    "InvalidCard" : "Card is Invalid",
+    "InvalidCvv" : "Enter valid CVV",
+    "SecondText" : "Add New Card",
+    "CardNumberLabel" : "CARD NUMBER",
+    "ExpiryLabel" : "EXPIRY",
+    "CVVLabel" : "CVV",
+    "CardSaveLabel" : "Save card for future use",
+    "NoCardAlert" : "No saved cards!",
+    "SavedBTN" : "Saved Cards",
+    "SavePay" : "Save & Pay",
+    "Pay" : "Pay"
+  },
+  "ChangePassword" : {
+    "passwordText" : "Change Password",
+    "mainText" : "Enter new password to update.",
+    "passwordLabel" : "New Password",
+    "confirmPasswordLabel" : "Confirm Password",
+    "noMatch" : "Passwords does not match!",
+    "SuccessAlert" : "Password changed succefully!"
+  }
+}

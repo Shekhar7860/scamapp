@@ -1,0 +1,62 @@
+{
+  "home" : {
+    "login" : "Login",
+    "fb_button" : "CONTINUE USING FACEBOOK",
+    "email" : "CONTINUE USING EMAIL",
+    "message" : "By signing up you agree to our terms of use",
+  },
+
+  "register" : {
+    "register" : "Register",
+    "heading" : "Enter your email / phone number to register on to Famcam",
+    "emailInput" : "Enter Email",
+    "phoneInput" : "Phone Number",
+    "placeholderEmail" : "Enter Email",
+    "placeholderCode" : "Enter Code",
+    "placeholderNumber" : "Enter Phone Number",
+    "placeholderPassword" : "Set Password"
+  },
+
+  "otp" : {
+    "otp" : "OTP Verification",
+    "heading" : "Please Type the verification code sent to {{phone}}",
+    "resendOtp" : "Resend OTP"
+  },
+
+  "registerPassword" : {
+    "register" : "Register",
+    "heading" : "Set a Password for your new account {{email}}",
+    "placeholder" : "Set Password"
+  },
+
+  "login" : {
+    "login" : "Login",
+    "heading" : "Enter your email / phone number to register on to Famcam",
+    "heading2" : "Enter Password for your existing account {{email}}",
+    "forgotPassword" : "FORGOT PASSWORD?",
+    "placeholder" : "Enter Email/ Number",
+    "placeholder2" : "Enter Password"
+  },
+
+  "forgotPassword" : {
+    "text" : "Forgot Password?",
+    "heading" : "Just Enter your phone number, we will send a password reset soon.",
+    "placeholder" : "Phone Number"
+  },
+  "shoutout" : {
+    "text" : "Book a video shoutout",
+    "input1" : "Who is this video for?",
+    "input2" : "Your email",
+    "input3" : "Instructions (be specific/creative!)",
+    "input4" : "Enter Promo (optional)",
+    "msg1" : "Showcase this video on the talent's page ? ",
+    "msg2" : "Get your request within 24 hours(VIP deleivery).",
+    "msg3" : "Extra charges Apply"
+  },
+  "Profile1" : {
+    "profileText" : "Profile Setup",
+    "picLabel" : "Please upload a professional and high quality image. Not more than 4MB",
+    "nameLabel" : "Full Name",
+    "bioLabel" : "Bio"
+  },
+}

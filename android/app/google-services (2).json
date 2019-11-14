@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "735828584653",
+    "firebase_url": "https://fam-cam-user.firebaseio.com",
+    "project_id": "fam-cam-user",
+    "storage_bucket": "fam-cam-user.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735828584653:android:c182d0ff7c793c86",
+        "android_client_info": {
+          "package_name": "com.famcam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735828584653-a3cs15ve3jb3o8c04drgoqqsfc1md4vf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.famcam",
+            "certificate_hash": "c39f9e0f3ef7b9a721fe767bc1c1cc99000b875c"
+          }
+        },
+        {
+          "client_id": "735828584653-f57edtf253qa6niedslkmsfongagit94.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.famcam",
+            "certificate_hash": "cc32582065bbc46f5d38b4b91186466ca94576c8"
+          }
+        },
+        {
+          "client_id": "735828584653-t3njr9l8smiqff61kgpo9q90dd4lpht2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoHJ_Tc-fdtzOeeO1LHG-6P70G5RAtfZk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735828584653-t3njr9l8smiqff61kgpo9q90dd4lpht2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

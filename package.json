@@ -1,0 +1,62 @@
+{
+  "name": "famcam",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "axios": "0.16.2",
+    "react": "16.9.0",
+    "react-native": "0.61.4",
+    "react-native-aws3": "0.0.8",
+    "react-native-check-box": "2.1.0",
+    "react-native-country-picker-modal": "0.5.1",
+    "react-native-fast-image": "^7.0.2",
+    "react-native-fbsdk": "^1.1.1",
+    "react-native-fetch-blob": "^0.10.8",
+    "react-native-i18n": "2.0.10",
+    "react-native-image-picker": "0.26.7",
+    "react-native-keep-awake": "3.0.1",
+    "react-native-keyboard-aware-scroll-view": "0.5.0",
+    "react-native-keyboard-manager": "4.0.13-5",
+    "react-native-linear-gradient": "2.4.0",
+    "react-native-loading-spinner-overlay": "0.5.2",
+    "react-native-material-dropdown": "0.9.0",
+    "react-native-material-kit": "0.5.1",
+    "react-native-navigation": "^3.5.1",
+    "react-native-onesignal": "^3.5.0",
+    "react-native-progress": "3.4.0",
+    "react-native-scrollable-tab-view": "0.8.0",
+    "react-native-spinkit": "1.1.1",
+    "react-native-vector-icons": "4.4.2",
+    "react-native-video": "^5.0.2",
+    "react-redux": "5.0.6",
+    "redux": "3.7.2",
+    "redux-thunk": "2.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.6.2",
+    "@babel/runtime": "^7.6.2",
+    "@react-native-community/eslint-config": "^0.0.5",
+    "babel-jest": "^24.9.0",
+    "eslint": "^6.5.1",
+    "jest": "^24.9.0",
+    "metro-react-native-babel-preset": "^0.56.0",
+    "react-test-renderer": "16.9.0",
+    "redux-immutable-state-invariant": "2.1.0",
+    "redux-logger": "3.0.6"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "rnpm": {
+    "assets": [
+      "./fonts"
+    ]
+  }
+}

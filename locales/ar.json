@@ -1,0 +1,221 @@
+{
+  "globalValues" : {
+    "NothingText" : "لا يوجد طلبات، إسحب الشاشة للتحديث!",
+    "AlertOKBtn" : "نعم ",
+    "Currency" : "ر.س",
+    "ContactThanks" : "شكرًا على اتصالك بنا ، وسنوافيك بالرد قريبًا.",
+    "FeaturedLabel" : "المتميزون",
+    "NetAlert" : "أنت غير متصل بالإنترنت",
+    "Tab1" : "الرئيسية",
+    "Tab2" : "الطلبات",
+    "Tab3" : "الحساب",
+    "RequstsLabel" : "الطلبات",
+    "ReceivedLabel" : "تم الاستلام",
+    "VideoSave" : "ليس لديك أذن لحفظ الفيديو.",
+    "loggedout" : "لقد تم تسجيل الخروج!",
+    "RetryAlert" : "حدثت مشكلة ، يمكنك إعادة المحاولة!",
+    "PhoneNumberValidation" : "يرجى إدخال رقم هاتف صحيح (من 6 إلى 15 حرفًا)",
+    "wrongMessage" : "حدث خطأ"
+  },
+  "famcamHome": {
+    "NoDataText" : "لاتوجد بيانات",
+    "SearchLabel" : "بحث",
+    "ReactionLabel" : "ردود الفعل",
+    "CameoLabel" : "المؤثرين المميزون"
+  },
+  "home" : {
+    "login" : "تسجيل الدخول",
+    "fb_button" : "سجل عن طريق الفيسبوك",
+    "email" : "سجل عن طريق البريد الإلكتروني",
+    "message" : "من خلال التسجيل فإنك توافق على شروط واحكام الاستخدام الخاصة بنا"
+  },
+  "register" : {
+    "register" : "تسجيل",
+    "heading" : "أدخل بريدك الإلكتروني ورقم هاتفك للتسجيل في فام كام",
+    "emailInput" : "أدخل البريد الإلكتروني",
+    "phoneInput" : "رقم الجوال",
+    "placeholderEmail" : "أدخل البريد الإلكتروني",
+    "placeholderNumber" : "أدخل رقم الجوال",
+    "placeholderPassword" : "ضبط كلمة السر"
+  },
+  "otp" : {
+    "otp" : "توثيق",
+    "heading" : "يرجى كتابة رمز التحقق المرسل إليه",
+    "OtpSuccess" : "تم إرسال رمز التوثيق",
+    "resendOtp" : "إعادة إرسال رمز التحقق",
+    "4DigitAlertText" : "رمز التحقق يتكون من 4 أرقام!",
+    "IncorrectServerAlertText" : "الرمز الذي أدخلته غير صحيح. يرجى التحقق من الرمز والمحاولة مرة أخرى.",
+    "IncorrectAlertText" : "رمز التحقق غير صحيح"
+  },
+  "login" : {
+    "login" : "تسجيل الدخول",
+    "heading" : "أدخل بريدك الإلكتروني لتسجيل الدخول في فام كام",
+    "forgotPassword" : "هل نسيت كلمة المرور؟",
+    "placeholder" : "أدخل البريد الإلكتروني",
+    "placeholder2" : "أدخل كلمة المرور",
+    "NotificationText" : "للحصول على تنبيه عند اكتمال طلبك ، تأكد من تمكين إشعارات التطبيق دائمًا"
+  },
+  "forgotPassword" : {
+    "text" : "هل نسيت كلمة المرور؟",
+    "heading" : " أدخل رقم الجوال وسوف يتم ارسال بريد الكتروني لإعادة تعيين كلمة المرور قريبًا.",
+    "placeholder" : "رقم الجوال",
+    "SuccessAlertText" : "تم إرسال الرابط إلى حسابك"
+  },
+  "shoutout" : {
+    "text" : "احجز فيديو من",
+    "input1" : "هذا الفيديو موجه الى",
+    "input2" : "بريدك الالكتروني",
+    "input3" : "رسالتك..\n\n اتمنى ان تبارك لإختي ساره بالتخرج من الجامعه \n هي من معجبينك جدا..!",
+    "input4" : "كود الخصم (اختياري)",
+    "PayBTN" : "إتمام الدفع",
+    "ApplyLabel" : "إضافة",
+    "RemoveLabel" : "إزالة",
+    "UnsuccessfullAlert" : "الدفع غير ناجح.",
+    "SuccessfullAlert" : "تم الدفع بنجاح",
+    "PromoEnter" : "ادخل رمز الخصم",
+    "PromoSuccess" : "تم إدخال رمز الخصم بنجاح",
+    "CheckBox1" : "عرض هذا الفيديو على صفحة المؤثر؟",
+    "CheckBox2" : "احصل على طلبك خلال 24 ساعة (VIP).",
+    "CheckBox2Bold" : "سوف يتم تطبيق رسوم إضافية.",
+    "deliveryText" : "الوقت المقدر للتسليم من 3 إلى 7 أيام وستتلقى إشعار وبريد الكتروني عند تسليم الفيديو.",
+    "deliveryText1" : "الوقت المقدر للتسليم على مدار 24 ساعة وستتلقى إشعار وبريد الكتروني عند تسليم الفيديو."
+  },
+  "Profile1" : {
+    "profileText" : "إعداد الملف الشخصي",
+    "picLabel" : "يرجى تحميل صورة احترافية وعالية الجودة.",
+    "nameLabel" : "الاسم الكامل",
+    "bioLabel" : "حول"
+  },
+  "talentInfo" : {
+    "latest" : "آخر الطلبات",
+    "related" : "مؤثرين ذو صلة",
+    "book" : "اطلب الان",
+    "ForLabel" : "الى",
+    "RelatedText" : "مؤثرين ذو صلة",
+    "BookLabel" : "كتاب ل SAR",
+    "BookNowLabel" : "اطلب الان"
+  },
+  "settings" : {
+    "edit" : "تعديل الملف الشخصي",
+    "text" : "الإعدادات",
+    "paymentInfo" : "معلومات الدفع",
+    "contact" : "اتصل بنا",
+    "suggestion" : "اقتراحات",
+    "tc" : "الشروط والأحكام",
+    "lang" : "تغيير اللغة",
+    "changePass" : "تغيير كلمة السر",
+    "logout" : "خروج",
+    "LogoutAlertText" : "هل أنت متأكد من تسجيل الخروج؟",
+    "YesLabel": "نعم ",
+    "NoLabel": "لا"
+  },
+  "orders" : {
+    "request" : "طلبات",
+    "received" : "تم الاستلام"
+  },
+  "status" : {
+    "pending" : "قيد الانتظار",
+    "rejected" : "مرفوض",
+    "waiting" : "في انتظار الرد",
+    "for" : "الى",
+    "message" : "الرسالة",
+    "order" : "رقم الطلب",
+    "ToastMsg" : "يتم الان حفط الفيديو الخاص بك!",
+    "DownloadAlert" : "تم حفظ الفيديو في الإستديو",
+    "DownloadAlertIOS" : "تم حفظ الفيديو في ملف الصور"
+  },
+  "editProfile" : {
+    "save" : "حفظ",
+    "name" : "اسم",
+    "phone" : "رقم الجوال",
+    "email" : " البريد الإلكتروني",
+    "tap" : "اضغط لتغيير الصورة",
+    "info" : "المعلومات الشخصية",
+    "alertText" : "ليس لديك أذن لتحديد الصورة.",
+    "updatedAlerttext" : "تم تحديث المعلومات الخاصة بك"
+  },
+  "Language" : {
+    "LanguageText" : "اختر اللغة",
+    "ArabicText" : "العربية",
+    "EnglishText" : "الإنجليزية",
+    "SaveBTN" : "حفظ"
+  },
+  "PrivacyPolicy" : {
+    "PrivacyPolicyText" : "سياسة الخصوصة"
+  },
+  "ContactUs" : {
+    "ContactUsText" : "اتصل بنا",
+    "MainText" : "إذا كان لديك أي  مشكلة مع طلبك الخاص أو أي ملاحظات عامه اتصل بنا(سيتم الرد في اقل من ٢٤ ساعه).",
+    "InputText" : "أدخل رسالتك...",
+    "SendBTN" : "إرسال"
+  },
+  "Suggestion" : {
+    "SuggestionText" : "اقتراح",
+    "MainText" : "هل لديك أي مؤثرين ترغب منا بالتواصل معهم لإضافتهم لدينا ؟",
+    "NameLabel" : "اسم",
+    "UrlLabel" : "إدخال عنوان الموقع",
+    "SendBTN" : "إرسال",
+    "SuccessAlertText" : "شكرا على اقتراحك!"
+  },
+  "AfterPayment" : {
+    "MainText" : "اكتمل الطلب",
+    "MainText1" : "وتم إرساله الى",
+    "ForLabel" : "الى",
+    "time" : "منذ 2 ثانية",
+    "msgLabel" : "رسالة",
+    "paidLabel" : "تم الدفع",
+    "orderLabel" : "رقم الطلب",
+    "finalText1" : "سيتم تسليم الفيديو خلال 3 إلى 7 أيام وستتلقى إشعارًا وبريدًا إلكترونيًا عند تسليم الفيديو.",
+    "finalText2" : "سيتم تسليم الفيديو خلال 24 ساعة وستتلقى إشعارًا وبريدًا إلكترونيًا عند تسليم الفيديو.",
+    "refundText" : "إذا لم يتم تسليم الفيديو في الوقت المحدد سوف يتم إعادة المبلغ المدفوع الى حسابك",
+    "okBTN" : "حسنا"
+  },
+  "PaymentInfo" : {
+    "PaymentText" : " الدفع",
+    "MessageLabel" : "الرسالة",
+    "orderLabel" : "رقم الطلب"
+  },
+  "Requests" : {
+    "WaitingLabel" : "بإنتظار الرد",
+    "RejectedLabel" : "مرفوض",
+    "ForLabel" : "الى",
+    "MessageLabel" : "الرسالة",
+    "OrderLabel" : "رقم الطلب",
+    "refundText" : "سوف يتم اعادة المبلغ كامل الى حسابك",
+    "DayAgo" : "منذ يوم",
+    "DaysAgo" : "منذ أيام",
+    "HourAgo" : "منذ ساعة",
+    "HoursAgo" : "منذ ساعات",
+    "MinuteAgo" : "منذ دقيقة",
+    "MinutesAgo" : "منذ دقائق",
+    "SecondAgo" : "قبل ثانية",
+    "SecondsAgo" : "منذ ثوانى",
+    "HourLeft" : "ساعة متبقية",
+    "HoursLeft" : "ساعات متبقية",
+    "MinuteLeft" : "الدقيقة المتبقية",
+    "MinutesLeft" : "تبقى دقائق",
+    "SecondLeft" : "تبقى ثانية"
+  },
+  "payment" : {
+    "PaymentText" : "خيارات الدفع",
+    "InvalidCard" : "البطاقة غير صالحة",
+    "InvalidCvv" : "أدخل CVV صحيح",
+    "SecondText" : "أضف بطاقة جديدة",
+    "CardNumberLabel" : "رقم البطاقة",
+    "ExpiryLabel" : "تاريخ الإنتهاء",
+    "CVVLabel": "CVV",
+    "CardSaveLabel" : "حفظ البطاقة لاستخدامها في المستقبل",
+    "NoCardAlert" : "لا توجد بطاقات محفوظة!",
+    "SavedBTN" : "البطاقات المحفوظة",
+    "SavePay" : "حفظ البطاقة والدفع",
+    "Pay" : "اتمام الطلب"
+  },
+  "ChangePassword" : {
+    "passwordText" : "تغيير كلمة السر",
+    "mainText" : "أدخل كلمة المرور الجديدة للتحديث.",
+    "passwordLabel" : "كلمة السر الجديدة",
+    "confirmPasswordLabel" : "تأكيد كلمة المرور",
+    "noMatch" : "كلمات السر غير متطابقة!",
+    "SuccessAlert" : "تم تغيير الرقم السري بنجاح!"
+  }
+}
